@@ -1,2 +1,18 @@
-# STEMnation
-STEMNation is a program Kashvi runs at her local library to inspire kids, including those with disabilities, to explore science, technology, engineering, and math. Through fun, hands-on experiments and activities, she makes STEM accessible and exciting, encouraging curiosity and creativity. The program emphasizes inclusivity, creating a welcoming space for all kids to discover the wonders of STEM.
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
